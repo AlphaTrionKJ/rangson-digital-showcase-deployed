@@ -1,0 +1,141 @@
+{
+  "about": "RANGSON INDUSTRIES has over 50 years of generational expertise in machine manufacturing, our company brings a legacy of precision, innovation, and reliability to the food processing industry. Backed by decades of engineering excellence with deep industry insight, we are committed to delivering cutting-edge solutions that meet the evolving needs of modern food producers. At the core of our business is a dedication to quality, performance, and long-term client partnerships. Whether you're scaling operations or optimizing production, our machines are built to perform today and into the future",
+  "contact": "At Rangson Industries, your trust is our greatest asset and the foundation of our commitment to excellence. For inquiries, support, or to explore our product range, please reach out to us we are here to partner with you every step of the way.",
+  "products": [
+    {
+      "id": "vibro-shifter",
+      "page": 2,
+      "title": "VIBRO SHIFTER",
+      "label": "VIBRO SHIFTER",
+      "description": "A efficiently separates, grades, and filters powders and granules in food processing with high-capacity screening. Its gentle vibration ensures consistent particle size, improving product quality and streamlining raw material preparation.",
+      "images": [
+        "vibro-shifter"
+      ],
+      "kind": "trio"
+    },
+    {
+      "id": "ribbon-blender",
+      "page": 2,
+      "title": "RIBBON BLENDER",
+      "label": "BLENDER",
+      "description": "A ribbon blender machine is widely used in the food processing industry for mixing dry powders and granules such as spices, baking mixes, protein powders, and instant drink mixes.",
+      "images": [
+        "ribbon-blender"
+      ],
+      "kind": "trio"
+    },
+    {
+      "id": "hammer-pulverizer",
+      "page": 2,
+      "title": "HAMMER PULVERIZER",
+      "label": "HAMMER PULVERIZER",
+      "description": "A hammer pulverizer rapidly pulverizes and mills tough ingredients like grains, spices, or sugar. Its robust design handles large quantities, ensuring high output and fine, uniform powder essential for industrial-scale food manufacturing.",
+      "images": [
+        "hammer-pulverizer"
+      ],
+      "kind": "trio"
+    },
+    {
+      "id": "counter-pressure-retrot",
+      "page": 3,
+      "title": "COUNTER PRESSURE RETROT",
+      "label": "Counter Pressure Retrot",
+      "description": "A machine is an essential food processing equipment used for sterilizing and cooking food products that are sealed in heat resistant packaging like cans, glass bottles, or pouches. It works by applying high temperature and controlled pressure simultaneously, which prevents the packaging from deforming or bursting during the process. This ensures uniform heat penetration and effectively kills harmful microorganisms, extending the shelf life of the food without compromising its quality, flavor, or nutritional value. The counter pressure mechanism is especially useful for delicate or flexible packaging, maintaining the product's shape and integrity throughout sterilization. Counter pressure retorts are widely used in producing canned foods, ready-to-eat meals, sauces, and beverages in the food industry.",
+      "images": [
+        "retrot-1",
+        "retrot-2",
+        "retrot-3"
+      ],
+      "kind": "wide"
+    },
+    {
+      "id": "individual-quick-freezer",
+      "page": 4,
+      "title": "INDIVIDUAL QUICK FREEZER",
+      "label": "IIndividual Quick Freezer (IOF)",
+      "description": "An Individual Quick Freezer (IQF) is a specialized machine used in the food processing industry to rapidly freeze individual pieces of food such as fruits, vegetables, seafood, poultry, and even prepared meals. The IQF process quickly brings food to freezing temperatures, preventing the formation of large ice crystals that can damage texture and quality. This rapid, separate freezing maintains the food’s original shape, color, taste, and nutritional value, while allowing for easy portioning and minimizing product clumping. IQF is valued for preserving freshness and extending shelf life in foods that are later sold frozen or used in food manufacturing.",
+      "images": [
+        "iqf"
+      ],
+      "kind": "split"
+    },
+    {
+      "id": "spiral-iqf-freezer",
+      "page": 4,
+      "title": "Spiral IQF Freezer",
+      "label": "Spiral IQF Freezer",
+      "description": "A Spiral IQF Freezer is a type of IQF system where food items are transported upward or downward on a continuous spiral conveyor inside the freezing chamber. Spiral IQF freezers are particularly suited for high-volume processing as they maximize freezing capacity within a compact footprint. They efficiently freeze various foods such as meat, poultry, seafood, baked goods, fruits, and vegetables, ensuring gentle handling and uniform, rapid freezing. The spiral design allows for flexible dwell times, easy cleaning, and effective integration into automated production lines making it a preferred choice for modern food processing plants seeking product quality, throughput, and efficiency.",
+      "images": [
+        "spiral-iqf"
+      ],
+      "kind": "split"
+    },
+    {
+      "id": "freeze-drying-machine",
+      "page": 5,
+      "title": "FREEZE DRYING MACHINE",
+      "label": "",
+      "description": "A freeze drying machine efficiently removes moisture from fruits and vegetables at low temperatures, preserving nutrients, flavor, and texture. Ideal for long-term storage and premium quality, it is essential for producing lightweight, ready-to-eat, and shelf-stable food products in the food processing industry. Its gentle process ensures minimal shrinkage and extends shelf life, making it perfect for export and specialty food markets.",
+      "images": [
+        "freeze-drying-1",
+        "freeze-drying-2",
+        "freeze-drying-3"
+      ],
+      "kind": "wide"
+    },
+    {
+      "id": "refrigerator-cooler",
+      "page": 6,
+      "title": "REFRIGERATOR & COOLER MACHINE",
+      "label": "REFRIGERATOR AND COOLER MACHINE",
+      "description": "Refrigerators and coolers used in the food processing industry are essential for maintaining precise low temperatures to preserve the freshness, quality, and safety of perishable food products. These industrial-grade systems ensure optimal storage conditions by controlling temperature and humidity, slowing down spoilage and microbial growth. They are vital components in cold chains and processing plants, supporting extended shelf life and compliance with food safety regulations. Their energy-efficient designs and robust construction offer reliable performance for diverse food storage needs.",
+      "images": [
+        "refrigerator",
+        "cooler"
+      ],
+      "kind": "feature"
+    },
+    {
+      "id": "candies-gummies",
+      "page": 7,
+      "title": "CANDIES & GUMMIES MACHINE",
+      "label": "CANDIES AND GUMMIES MACHINE ",
+      "description": "Candies and gummies machinery are specialized equipment designed for efficient manufacturing of various confectionery products like hard candies, gummies, toffees, and chewing gums. These machines handle processes such as cooking, mixing, forming, molding, and packaging to produce high quality, consistent products. Equipped with stainless steel food grade parts and advanced automation, they ensure hygiene, precision, and fast production rates ideal for industrial scale confectionery production.",
+      "images": [
+        "candies",
+        "gummies"
+      ],
+      "kind": "feature"
+    },
+    {
+      "id": "vegetable-cutting",
+      "page": 8,
+      "title": "VEGETABLE CUTTING MACHINE & DICS",
+      "label": "Vegetable Cutting Machine and Dics",
+      "description": "A vegetable cutting machine is used in the food processing industry to quickly and efficiently cut vegetables into various shapes such as slices, cubes, strips, and shreds. It helps reduce manual labor and ensures uniform cutting, which is essential for consistent cooking and presentation. The machine operates with different interchangeable discs or blades designed for specific cuts, like slicing, dicing, shredding, and grating. These discs allow versatility in processing different vegetables and achieve precise, consistent sizes, enhancing productivity and quality in commercial kitchens, catering, and food production units. Most vegetable cutting machines are made of stainless steel for durability and hygiene.",
+      "images": [
+        "vegetable-machine",
+        "disc-1",
+        "disc-2",
+        "disc-3",
+        "disc-4",
+        "disc-5",
+        "disc-6",
+        "disc-7"
+      ],
+      "kind": "discs"
+    },
+    {
+      "id": "food-packing",
+      "page": 9,
+      "title": "FOOD PACKING MACHINE",
+      "label": "Automatic FOOD PACKING MACHINE",
+      "description": "An automatic food packing machine streamlines the packaging of snacks such as chips, wafers, and namkeen with precision and speed. Designed for high efficiency and hygiene, it forms, fills, and seals packages while minimizing product wastage. This equipment ensures consistent packaging quality, enhances shelf appeal, and extends product freshness, making it vital for large-scale food processing and snack manufacturing operations.",
+      "images": [
+        "semi-automatic",
+        "automatic"
+      ],
+      "kind": "packing"
+    }
+  ]
+}
